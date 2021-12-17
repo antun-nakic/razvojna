@@ -1,0 +1,24 @@
+{
+  "name": "novi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pred-kompajliraj": "handlebars ./templates -f precompiled.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antun-nakic/razvojna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antun-nakic/razvojna/issues"
+  },
+  "homepage": "https://github.com/antun-nakic/razvojna#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
